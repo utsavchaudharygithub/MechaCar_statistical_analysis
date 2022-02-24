@@ -1,5 +1,12 @@
 # MechaCar_statistical_analysis
 
+<img width="664" alt="Screen Shot 2022-02-18 at 10 48 19 PM" src="https://user-images.githubusercontent.com/91306158/155476023-27a1a167-9270-4b8d-b224-e53244390478.png">
+
+<img width="483" alt="Screen Shot 2022-02-18 at 10 48 56 PM" src="https://user-images.githubusercontent.com/91306158/155476028-433a6745-fe7e-4be7-900e-680a08da390e.png">
+
+<img width="513" alt="Screen Shot 2022-02-18 at 10 49 07 PM" src="https://user-images.githubusercontent.com/91306158/155476044-f39888ce-743e-435f-99ca-da9769c54372.png">
+
+<img width="641" alt="Screen Shot 2022-02-18 at 10 49 34 PM" src="https://user-images.githubusercontent.com/91306158/155476058-34e9be9a-f4f1-4381-bbe9-a2525d8f756f.png">
 <img width="499" alt="Screen Shot 2022-02-18 at 10 29 35 PM" src="https://user-images.githubusercontent.com/91306158/155475912-ec87ebd7-b886-48e4-a029-66889ee84b79.png">
 
 <img width="493" alt="Screen Shot 2022-02-18 at 10 30 22 PM" src="https://user-images.githubusercontent.com/91306158/155475921-01e9c5dd-c363-4ecc-a41a-d6da57f0a7c3.png">
@@ -22,13 +29,7 @@
 
 <img width="416" alt="Screen Shot 2022-02-18 at 10 46 30 PM" src="https://user-images.githubusercontent.com/91306158/155476016-023cb15c-1f63-429c-b8f6-b9bef4acb212.png">
 
-<img width="664" alt="Screen Shot 2022-02-18 at 10 48 19 PM" src="https://user-images.githubusercontent.com/91306158/155476023-27a1a167-9270-4b8d-b224-e53244390478.png">
 
-<img width="483" alt="Screen Shot 2022-02-18 at 10 48 56 PM" src="https://user-images.githubusercontent.com/91306158/155476028-433a6745-fe7e-4be7-900e-680a08da390e.png">
-
-<img width="513" alt="Screen Shot 2022-02-18 at 10 49 07 PM" src="https://user-images.githubusercontent.com/91306158/155476044-f39888ce-743e-435f-99ca-da9769c54372.png">
-
-<img width="641" alt="Screen Shot 2022-02-18 at 10 49 34 PM" src="https://user-images.githubusercontent.com/91306158/155476058-34e9be9a-f4f1-4381-bbe9-a2525d8f756f.png">
 
 ![boxplot](https://user-images.githubusercontent.com/91306158/155475903-109a8ee2-7dcf-4551-9f7c-8d607faf97d9.png)
 
