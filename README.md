@@ -1,8 +1,11 @@
 # MechaCar_statistical_analysis
+#summary statistics on suspension coils
 
 <img width="664" alt="Screen Shot 2022-02-18 at 10 48 19 PM" src="https://user-images.githubusercontent.com/91306158/155476023-27a1a167-9270-4b8d-b224-e53244390478.png">
 
 <img width="483" alt="Screen Shot 2022-02-18 at 10 48 56 PM" src="https://user-images.githubusercontent.com/91306158/155476028-433a6745-fe7e-4be7-900e-680a08da390e.png">
+
+
 
 <img width="513" alt="Screen Shot 2022-02-18 at 10 49 07 PM" src="https://user-images.githubusercontent.com/91306158/155476044-f39888ce-743e-435f-99ca-da9769c54372.png">
 
