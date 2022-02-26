@@ -1,4 +1,13 @@
 # MechaCar_statistical_analysis
+
+Jeremy approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
+In this challenge, we helped Jeremy and the data analytics team do the following:
+Performed multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
+Collected summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
+Ran t-tests to determine if the manufacturing lots are statistically different from the mean population
+Designed a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
+
+
 #summary statistics on suspension coils
 
 <img width="664" alt="Screen Shot 2022-02-18 at 10 48 19 PM" src="https://user-images.githubusercontent.com/91306158/155476023-27a1a167-9270-4b8d-b224-e53244390478.png">
