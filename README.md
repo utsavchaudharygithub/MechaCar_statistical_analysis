@@ -6,8 +6,16 @@
 <img width="483" alt="Screen Shot 2022-02-18 at 10 48 56 PM" src="https://user-images.githubusercontent.com/91306158/155476028-433a6745-fe7e-4be7-900e-680a08da390e.png">
 
 
-
 <img width="513" alt="Screen Shot 2022-02-18 at 10 49 07 PM" src="https://user-images.githubusercontent.com/91306158/155476044-f39888ce-743e-435f-99ca-da9769c54372.png">
+
+lot 1 has less variance and Std deviation is more reliable .Lot 1 and Lot 2 are within the 100 PSI variance which have variances of 0.98 and 7.47 respectively. But, it is Lot 3 has much larger variance in performance and consistency, with a variance of 170.29. It is Lot 3 that is not proportion and causing the variance at the full lot level.
+graph below shows the differences:
+
+![boxplot](https://user-images.githubusercontent.com/91306158/155475903-109a8ee2-7dcf-4551-9f7c-8d607faf97d9.png)
+
+![Rplot](https://user-images.githubusercontent.com/91306158/155475908-fa4465dc-31ca-4f50-9da1-81292862926a.png)
+
+*** vehicle length and ground clearance are significant because P value is less then which is <= to .001 .
 
 <img width="641" alt="Screen Shot 2022-02-18 at 10 49 34 PM" src="https://user-images.githubusercontent.com/91306158/155476058-34e9be9a-f4f1-4381-bbe9-a2525d8f756f.png">
 <img width="499" alt="Screen Shot 2022-02-18 at 10 29 35 PM" src="https://user-images.githubusercontent.com/91306158/155475912-ec87ebd7-b886-48e4-a029-66889ee84b79.png">
@@ -15,6 +23,9 @@
 <img width="493" alt="Screen Shot 2022-02-18 at 10 30 22 PM" src="https://user-images.githubusercontent.com/91306158/155475921-01e9c5dd-c363-4ecc-a41a-d6da57f0a7c3.png">
 
 <img width="496" alt="Screen Shot 2022-02-18 at 10 31 05 PM" src="https://user-images.githubusercontent.com/91306158/155475930-05e27dc0-ba50-4526-b1ed-187ee2782515.png">
+
+lot 1 has less variance and Std deviation = more reliable . We took off the 
+*** vehicle length and ground clearance are significant because P value is less then which is <= to .001 .
 
 <img width="496" alt="Screen Shot 2022-02-18 at 10 31 24 PM" src="https://user-images.githubusercontent.com/91306158/155475936-0ed69b65-bf47-4455-b731-15dec1a58442.png">
 
@@ -32,8 +43,9 @@
 
 <img width="416" alt="Screen Shot 2022-02-18 at 10 46 30 PM" src="https://user-images.githubusercontent.com/91306158/155476016-023cb15c-1f63-429c-b8f6-b9bef4acb212.png">
 
+T test is used to campare the sample and is compared to mean. If the sample comes from the population.  NOT CLOSER TO MEAN VALUE
+Adjusted r squared is model performance. higher the better.  We need to Look for perfect indicators that has  business sense  (remove the variable that do not have ***, and are less signigifacnt )
 
 
-![boxplot](https://user-images.githubusercontent.com/91306158/155475903-109a8ee2-7dcf-4551-9f7c-8d607faf97d9.png)
 
-![Rplot](https://user-images.githubusercontent.com/91306158/155475908-fa4465dc-31ca-4f50-9da1-81292862926a.png)
+
